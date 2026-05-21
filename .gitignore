@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.keras
+*.pkl
+uploaded_image.jpg
+*.pyc
+.env
