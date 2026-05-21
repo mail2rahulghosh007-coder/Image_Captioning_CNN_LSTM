@@ -5,3 +5,4 @@ __pycache__/
 uploaded_image.jpg
 *.pyc
 .env
+models/
