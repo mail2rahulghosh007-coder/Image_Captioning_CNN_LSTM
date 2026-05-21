@@ -6,3 +6,4 @@ uploaded_image.jpg
 *.pyc
 .env
 models/
+!models/.gitkeep
