@@ -27,7 +27,8 @@ Place all files in the `models/` folder before running the application:
 ├── models/             # Saved model files (download from Drive)
 ├── main.py             # Streamlit web app
 ├── requirements.txt    # Dependencies
-└── image_captioning.ipynb # Training notebook ```
+└── image_captioning.ipynb # Training notebook
+ ```
 
 ## How To Run
 ```bash
@@ -35,4 +36,5 @@ Place all files in the `models/` folder before running the application:
 pip install -r requirements.txt
 
 # Run the Streamlit web app
-streamlit run main.py```
+streamlit run main.py
+```
